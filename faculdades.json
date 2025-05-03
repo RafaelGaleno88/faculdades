@@ -1,0 +1,1852 @@
+[
+  {
+    "sigla": "PUC",
+    "nome": "PR\tPontifícia Universidade Católica do Paraná - Toledo - PUC PR",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNAERP",
+    "nome": "Universidade de Ribeirão Preto - UNAERP - Campus Guarujá",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "Unitins",
+    "nome": "Universidade Estadual do Tocantins",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIT",
+    "nome": "- PE\tCentro Universitário Tiradentes de Pernambuco",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIT",
+    "nome": "- Estância\tUniversidade Tiradentes - Unit - Estância",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FACAPE",
+    "nome": "Faculdade de Ciências Aplicadas e Sociais de Petrolina",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UniAGES",
+    "nome": "Centro Universitário AGES",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFBA",
+    "nome": "Universidade Federal da Bahia - UFBA",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFRJ",
+    "nome": "Universidade Federal do Rio de Janeiro - UFRJ",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFRGS",
+    "nome": "Universidade Federal do Rio Grande do Sul - UFRGS",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFMG",
+    "nome": "Universidade Federal de Minas Gerais - UFMG",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFPR",
+    "nome": "Universidade Federal do Paraná - Curitiba - UFPR",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIRIO",
+    "nome": "Universidade Federal do Estado do Rio de Janeiro/RJ - UNIRIO",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FMSP-USP",
+    "nome": "Universidade de São Paulo - Campus São Paulo - USP-SP",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFPA",
+    "nome": "Universidade Federal do Pará - UFPA",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFPE",
+    "nome": "Universidade Federal de Pernambuco - UFPE",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFF",
+    "nome": "Universidade Federal Fluminense - Niteroi/ RJ - UFF",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIFESP",
+    "nome": "Universidade Federal de São Paulo - UNIFESP",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UERJ",
+    "nome": "Universidade do Estado do Rio de Janeiro - UERJ",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFC",
+    "nome": "Universidade Federal do Ceará - UFC",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UPE",
+    "nome": "Universidade de Pernambuco-/Recife - UPE",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "PUCSP-",
+    "nome": "Sorocaba\tPontifícia Universidade Católica de São Paulo - Campus Sorocaba- PUC-SP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFAL",
+    "nome": "Universidade Federal de Alagoas - UFAL",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FCM-MG",
+    "nome": "Faculdade de Ciências Médicas de Minas Gerais- FELUMA - FCMMG",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFPB",
+    "nome": "Universidade Federal da Paraíba - J. Pessoa - UFPB",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FMRP-USP",
+    "nome": "Universidade de São Paulo - Campus Ribeirão Preto - USP-RP",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFJF",
+    "nome": "Universidade Federal de Juiz de Fora/MG - UFJF",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "EBMSP",
+    "nome": "Escola Bahiana de Medicina e Saúde Pública - Salvador- EBMSP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFTM",
+    "nome": "Universidade Federal do Triângulo Mineiro - Uberaba - UFTM",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFSM",
+    "nome": "Universidade Federal de Santa Maria - RS - UFSM",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFRN",
+    "nome": "Universidade Federal do Rio Grande do Norte - UFRN",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "PUCPR",
+    "nome": "Pontifícia Universidade Católica do Paraná - Curitiba - PUC-PR",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFMA",
+    "nome": "Universidade Federal do Maranhão - São Luis - UFMA",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNICAMP",
+    "nome": "Universidade Estadual de Campinas - UNICAMP",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFSC",
+    "nome": "Universidade Federal de Santa Catarina - UFSC",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFG",
+    "nome": "Universidade Federal de Goiás - UFG",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFES",
+    "nome": "Universidade Federal do Espírito Santo- UFES",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFS",
+    "nome": "Universidade Federal de Sergipe - UFS",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFCSPA",
+    "nome": "Universidade Federal de Ciências da Saúde de Porto Alegre - RS - UFCSPA",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UnB",
+    "nome": "Universidade de Brasília - DF - UNB",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNESP",
+    "nome": "Universidade Estadual Paulista Júlio de Mesquita Filho - Botucatu/SP - UNESP",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UCPEL",
+    "nome": "Universidade Católica de Pelotas-RS - UCPEL",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFPel",
+    "nome": "Universidade Federal de Pelotas - UFPel",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFAM",
+    "nome": "Universidade Federal do Amazonas -UFAM",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UEL",
+    "nome": "Universidade Estadual de Londrina - PR - UEL",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FAMEMA",
+    "nome": "Faculdade de Medicina de Marília-SP - FAMEMA",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFPI",
+    "nome": "Universidade Federal do Piauí - UFPI",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNITAU",
+    "nome": "Universidade de Taubaté - UNITAU",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FURG",
+    "nome": "Universidade Federal do Rio Grande/RS - FURG",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNILUS",
+    "nome": "Centro Universitário Lusíada- Santos - UNILUS",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFASE",
+    "nome": "Faculdade de Medicina de Petrópolis - UNIFASE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FMC",
+    "nome": "Faculdade de Medicina de Campos - RJ - FMC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UCS",
+    "nome": "Universidade de Caxias do Sul/RS - UCS",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFMS",
+    "nome": "Universidade Federal de Mato Grosso do Sul- Campo Grande - UFMS",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FCMSCSP",
+    "nome": "Faculdade de Ciências Médicas da Santa Casa de São Paulo/SP - FCMSCSP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UMC",
+    "nome": "Universidade de Mogi das Cruzes - UMC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FAMERP",
+    "nome": "Faculdade de Medicina de São José do Rio Preto -SP - FAMERP",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFU",
+    "nome": "Universidade Federal de Uberlândia - MG - UFU",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "EMESCAM",
+    "nome": "Escola Superior de Ciências da Santa Casa de Misericórdia de Vitória - EMESCAM",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNCISAL",
+    "nome": "Universidade Estadual de Ciências da Saúde de Alagoas - Maceió - UNCISAL",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FMIt",
+    "nome": "Faculdade de Medicina de Itajubá-MG - FMIt",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UniFOA",
+    "nome": "Centro Universitário de Volta Redonda- RJ - UNIFOA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFAA",
+    "nome": "Centro Universitário de Valença - UNIFA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIVAS",
+    "nome": "Universidade do Vale do Sapucaí - Pouso Alegre/MG - UNIVAS",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FMJ",
+    "nome": "Faculdade de Medicina de Jundiaí-SP - FMJ",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIVASSOURAS",
+    "nome": "Universidade de Vassouras - RJ",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FEMPAR",
+    "nome": "Faculdade Evangélica Mackenzie do Paraná - Curitiba - FEMPAR",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FMABC",
+    "nome": "Faculdade de Medicina do ABC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UPF",
+    "nome": "Universidade de Passo Fundo/RS - UPF",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFIPA",
+    "nome": "Centro Universitário Padre Albino - Catanduva - SP - UNIFIPA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UERR",
+    "nome": "Universidade Estadual de Roraima - UERR",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "EMSM",
+    "nome": "Escola de Medicina Souza Marques - Rio de Janeiro/RJ - EMSM",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNISA",
+    "nome": "Universidade de Santo Amaro - SP - UNISA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFESO",
+    "nome": "Centro Universitário Serra dos Órgãos - Teresópolis/RJ - UNIFESO",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "PUCRS",
+    "nome": "Pontificia Universidade Católica do Rio Grande do Sul - PUC-RS",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UEPA",
+    "nome": "Universidade do Estado do Pará - Santarém/PA - UEPA",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FAME",
+    "nome": "Faculdade de Medicina de Barbacena/MG - FAME",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UEPA",
+    "nome": "Universidade do Estado do Pará - Belem/PA - UEPA",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "USF",
+    "nome": "Universidade São Francisco - Bragança Paulista - USF",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIMONTES",
+    "nome": "Universidade Estadual de Montes Claros - UNIMONTES",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "PUC-CAMPINAS",
+    "nome": "Pontifícia Universidade Católica de Campinas - PUC-CAMPINAS",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIG/Nova",
+    "nome": "Iguaçu\tUniversidade Iguaçu - Nova Iguaçu - RJ - UNIG/Nova Iguaçu",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFMT",
+    "nome": "Universidade Federal de Mato Grosso - UFMT",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFCG",
+    "nome": "Universidade Federal de Campina Grande - UFCG",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "URCA",
+    "nome": "Universidade Regional do Cariri - URCA",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNOESTE",
+    "nome": "Universidade do Oeste Paulista - Presidente Prudente - UNOESTE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UEM",
+    "nome": "Universidade Estadual de Maringá/PR - UEM",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIFENAS",
+    "nome": "Universidade Professor Edson Antônio Velano - UNIFENAS/ Alfenas/MG",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FURB",
+    "nome": "Universidade Regional de Blumenau - SC - FURB",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UVA",
+    "nome": "Universidade Veiga de Almeida",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFRR",
+    "nome": "Universidade Federal de Roraima - UFRR",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UCB",
+    "nome": "Universidade Castelo Branco",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "ULBRA",
+    "nome": "Universidade Luterana do Brasil - Canoas - RS - ULBRA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIOESTE",
+    "nome": "Universidade Estadual do Oeste do Paraná- Cascavel - UNIOESTE",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIC",
+    "nome": "Universidade de Cuiabá/MT - UNIC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIMES",
+    "nome": "Universidade Metropolitana de Santos - SP - UNIMES",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNESA",
+    "nome": "Universidade Estácio de Sá - RJ - UNESA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIGRANRIO",
+    "nome": "Universidade do Grande Rio Professor José de Souza Herdy - Duque de Caxias/RJ- UNIGRANRIO",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIG/Itaperuna",
+    "nome": "Universidade Iguaçu - Itaperuna/RJ - UNIG/Itaperuna",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIDERP",
+    "nome": "Universidade Anhanguera-Uniderp - MS - UNIDERP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNAERP",
+    "nome": "Universidade de Ribeirão Preto - UNAERP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIVALI",
+    "nome": "Universidade do Vale do Itajaí - SC - UNIVALI",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIUBE",
+    "nome": "Universidade de Uberaba - MG - UNIUBE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNISUL",
+    "nome": "Universidade do Sul de Santa Catarina- Campus Tubarão - UNISUL",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNISUL",
+    "nome": "Universidade do Sul de Santa Catarina - Palhoça/SC - UNISUL",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UESPI",
+    "nome": "Universidade Estadual do Piauí - Teresina - UESPI",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIVILLE",
+    "nome": "Universidade da Região de Joinville - UNIVILLE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIMAR",
+    "nome": "Universidade de Marília/SP - UNIMAR",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNESC",
+    "nome": "Universidade do Extremo Sul Catarinense - Criciúma - UNESC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFACCAMP",
+    "nome": "Centro Universitário Campo Limpo Paulista",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFBM",
+    "nome": "Centro Universitário Barão de Mauá- Ribeirão Preto - SP -UFBM",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNITPAC",
+    "nome": "Centro Universitário Tocantinense Presidente Antônio Carlos",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UniFSP",
+    "nome": "Centro Universitário Sudoeste Paulista",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFGD",
+    "nome": "Universidade Federal da Grande Dourados - MS - UFGD",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFC/Sobral",
+    "nome": "Universidade Federal do Ceará- Campus de Sobral - UFC/Sobral",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFCA/Barbalha",
+    "nome": "Universidade Federal do Cariri - Campus de Barbalha - UFCA/Barbalha",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "ESTÁCIOFMJ",
+    "nome": "Faculdade de Medicina Estácio de Juazeiro do Norte/CE ESTÁCIO FMJ",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UESC",
+    "nome": "Universidade Estadual de Santa Cruz- Ilheus/BA - UESC",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "AFYA",
+    "nome": "IPATINGA\tAfya Faculdade de Ciências Médicas de Ipatinga",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UEA",
+    "nome": "Universidade do Estado do Amazonas -Manaus - UEA",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIFENAS-BH",
+    "nome": "Universidade Professor Edson Antônio Velano - Belo Horizonte/MG - UNIFENAS/BH",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "ESCS",
+    "nome": "Escola Superior de Ciências da Saúde - Brasília - ESCS",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNOESC",
+    "nome": "Universidade do Oeste de Santa Catarina - Joaçaba - UNOESC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNINILTONLINS",
+    "nome": "Universidade Nilton Lins - Manaus - UNINILTONLINS",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UERN",
+    "nome": "Universidade do Estado do Rio Grande do Norte - Mossoró/RN - UERN",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNEC",
+    "nome": "Centro Universitário de Caratinga -MG - UNEC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIR",
+    "nome": "Fundação Universidade Federal de Rondônia - UNIR",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNICEPLAC",
+    "nome": "Centro Universitário do Planalto Central Apparecido dos Santos – UNICEPLAC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UEMA",
+    "nome": "Universidade Estadual do Maranhão- Caxias - UEMA",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFAC",
+    "nome": "Universidade Federal do Acre - UFAC",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIPAC",
+    "nome": "Universidade Presidente Antônio Carlos/MG - UNIPAC /Juiz de Fora",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIRG",
+    "nome": "Centro Universitário Unirg - GurupiTO - UNIRG",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UEFS",
+    "nome": "Universidade Estadual de Feira de Santana- BA - UEFS",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UECE",
+    "nome": "Universidade Estadual do Ceará - UECE",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNINORTE",
+    "nome": "Centro Universitário Uninorte- Rio Branco/AC - UNINORTE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UEPG",
+    "nome": "Universidade Estadual de Ponta Grossa - UEPG - PR",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNICID",
+    "nome": "Universidade Cidade de São Paulo - UNICID",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UP",
+    "nome": "Universidade Positivo- Curitiba/PR - UP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNICEUMA",
+    "nome": "Universidade do Ceuma-UNICEUMA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UB",
+    "nome": "Universidade Brasil - Fernandópolis/SP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNINOVE",
+    "nome": "Universidade Nove de Julho - São Paulo - UNINOVE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FAMENE",
+    "nome": "Faculdade de Medicina Nova Esperança- J.Pessoa/ PB - FAMENE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FASEH",
+    "nome": "Faculdade da Saúde e Ecologia Humana - Vespasiano - MG - FASEH",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIPLAC",
+    "nome": "Universidade do Planalto Catarinense - Lages - UNIPLAC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIVASF",
+    "nome": "Universidade Federal do Vale do São Francisco/Petrolina/PE - UNIVASF",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "IMEPAC",
+    "nome": "Instituto Master de Ensino Presidente Antônio Carlos - IMEPAC Araguari/MG",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FAPAC",
+    "nome": "Faculdade Presidente Antonio Carlos - Porto Nacional - ITPAC-PORTO/FAPAC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNESC",
+    "nome": "Centro Universitário do Espirito Santo- Colatina - UNESC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FINCA",
+    "nome": "Faculdades Integradas Aparício Carvalho- Porto Velho/RO - FIMCA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FCMPB",
+    "nome": "Faculdade de Ciências Médicas da Paraíba/J.Pessoa/PB - FCMPB",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNINOVAFAPI",
+    "nome": "Centro Universitário Uninovafapi - Piauí - UNINOVAFAPI",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UESB",
+    "nome": "Universidade Estadual do Sudoeste da Bahia-Vitória da Conquista - UESB",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FCMS-JF",
+    "nome": "Faculdade de Ciências Médicas e da Saúde de Juiz de Fora-MG - SUPREMA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FTC",
+    "nome": "Faculdade de Tecnologia e Ciências-Salvador/BA - FTC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "PUC-GO",
+    "nome": "Pontifícia Universidade Católica de Goiás - PUC-GO",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIDOMPEDRO",
+    "nome": "Centro Universitário Dom Pedro II",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UniSL",
+    "nome": "Centro Universitário São Lucas - Porto Velho-RO - UniSL",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "ICS",
+    "nome": "Instituto de Ciências da Saúde - Montes Claros - MG -ICS/ FUNORTE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "MULTIVIX",
+    "nome": "VITORIA\tFaculdade Brasileira - Vitória/ES - MULTIVIX VITORIA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNOCHAPECO",
+    "nome": "Universidade Comunitária da Região de Chapecó/SC - UNOCHAPECÓ",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FPS",
+    "nome": "Faculdade Pernambucana de Saúde/Recife - FPS",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIARA",
+    "nome": "Centro Universitário de Araraquara-SP - UNIARA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIATENAS",
+    "nome": "Centro Universitário Atenas - Paracatu-MG - UNIATENAS",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFSCAR",
+    "nome": "Universidade Federal de São Carlos - SP - UFSCAR",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNICHRISTUS",
+    "nome": "Centro Universitário Unichristus - Fortaleza - UNICHRISTUS",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UnP",
+    "nome": "Universidade Potiguar -RN - UnP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNISC",
+    "nome": "Universidade de Santa Cruz do Sul - RS -UNISC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFOR",
+    "nome": "Universidade de Fortaleza - CE - UNIFOR",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UVV",
+    "nome": "Universidade Vila Velha - ES -UVV",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FACIMED",
+    "nome": "Centro Universitário UNIFACIMED",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "CESUPA",
+    "nome": "Centro Universitário do Estado do Pará - PA - CESUPA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UF0P",
+    "nome": "Universidade Federal de Ouro Preto/MG - UFOP",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFT",
+    "nome": "Universidade Federal do Tocantins - Palmas/TO - UFT",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNI-BH",
+    "nome": "Centro Universitário de Belo Horizonte/MG - UNI-BH",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UAM",
+    "nome": "Universidade Anhembi Morumbi - São Paulo/SP - UAM",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "SAO",
+    "nome": "CAMILO\tCentro Universitário São Camilo - São Paulo/SP - SÃO CAMILO",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FAPAN",
+    "nome": "Faculdade Estácio do Pantanal - Estácio FAPAN",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFCG",
+    "nome": "Universidade Federal de Campina Grande - Cajazeiras/PB (UFCG)",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIGRANRIO",
+    "nome": "Universidade do Grande Rio Professor José de Souza Herdy - RJ - UNIGRANRIO",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFSJ",
+    "nome": "Universidade Federal de São João Del Rei - MG /Divinópolis - UFSJ",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FIP-MOC",
+    "nome": "UNIFIPMoc - Centro Universitário FIPMoc",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIPAM",
+    "nome": "Centro Universitário de Patos de Minas - UNIPAM",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UIt",
+    "nome": "Universidade de Itaúna - UIt",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FIMCA",
+    "nome": "Centro Universitário Aparício Carvalho - FIMCA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UniEVANGELICA",
+    "nome": "Centro Universitário de Anápolis - GO - UniEVANGÉLICA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FAG",
+    "nome": "Centro Universitário Assis Gurgacz - Cascavel/PR - FAG",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFRJ/Macaé",
+    "nome": "Universidade Federal do Rio de Janeiro/Macaé - UFRJ",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UESB",
+    "nome": "Universidade Estadual do Sudoeste da Bahia- Jequié - UESB",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FAC-UNILAGOS",
+    "nome": "Faculdade União Araruama de Ensino S/S Ltda",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FAMEG",
+    "nome": "Afya Faculdade de Ciências Médicas de Garanhuns",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIT",
+    "nome": "UNIVERSIDADE TIRADENTES",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFV",
+    "nome": "Fundação Universidade Federal de Viçosa - MG - UFV",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIFAP",
+    "nome": "Universidade Federal do Amapá - UNIFAP",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UniRV",
+    "nome": "Universidade de Rio Verde - UniRV - Rio Verde/GO",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNINGÁ",
+    "nome": "Centro Universitário Ingá -Maringá/PR - INGÁ",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UPE-Garanhuns",
+    "nome": "Universidade de Pernambuco/Garanhuns - UPE",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNEB",
+    "nome": "- Cabula\tUniversidade do Estado da Bahia - Cabula/Salvador - UNEB",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNICESUMAR",
+    "nome": "Universidade de Maringá - CESUMAR",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FASM",
+    "nome": "Faculdade Santa Marcelina - FASM",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FACISB",
+    "nome": "Faculdade de Ciências da Saúde de Barretos Dr. Paulo Prata - FACISB",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFRAN",
+    "nome": "Universidade de Franca - UNIFRAN - SP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIOESTE",
+    "nome": "- Francisco Beltrão\tUniversidade Estadual do Oeste do Paraná - Francisco Beltrão - UNIOESTE",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFS/Campus",
+    "nome": "de Lagarto\tUniversidade Federal de Sergipe - UFS/Campus Lagarto",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFJF",
+    "nome": "- Governador Valadares\tUniversidade Federal de Juiz de Fora - Governador Valadares/MG - UFJF",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNEMAT",
+    "nome": "Universidade do Estado de Mato Grosso - UNEMAT",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNILAGO",
+    "nome": "União das Faculdades dos Grandes Lagos - S. José do Rio Preto - SP - UNILAGO",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFACS",
+    "nome": "Universidade Salvador/BA - UNIFACS",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "PUC",
+    "nome": "MINAS\tPontifícia Universidade Católica de Minas Gerais - Betim/MG - PUCMINAS",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "PUC",
+    "nome": "PR\tPontifícia Universidade Católica do Paraná - Londrina - PUC PR",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNINASSAU",
+    "nome": "Centro Universitário Mauricio de Nassau - UNINASSAU - PE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FAMINAS",
+    "nome": "Faculdade de Minas BH - FAMINAS - MG",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFEV",
+    "nome": "Centro Universitário de Votuporanga - SP - UNIFEV",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UPE",
+    "nome": "- Serra Talhada\tUniversidade de Pernambuco -UPE/Serra Talhada (PE)",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIFSM",
+    "nome": "Centro Universitário Santa Maria - FSM - Cajazeiras/PB",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UEPA/Marabá",
+    "nome": "Universidade do Estado do Pará - UEPA / Marabá",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFPI",
+    "nome": "- Picos\tUniversidade Federal do Piauí - campus Senador Elvidio N. de Barros - PICOS -PI - UFPI",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "SLMANDIC",
+    "nome": "Faculdade São Leopoldo Mandic -Campinas/ SLMANDIC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNICEUB",
+    "nome": "Centro Universitário de Brasília - UNICEUB",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIVAG",
+    "nome": "Centro Universitário de Várzea Grande - MT - UNIVAG",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFFS",
+    "nome": "Universidade Federal da Fronteira Sul - Passo Fundo -RS - UFFS",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIVATES",
+    "nome": "Centro Universitário Univates - Lajeado - RS - UNIVATES",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFVJM",
+    "nome": "Universidade Federal dos Vales do Jequitinhonha e Mucuri - Diamantina (MG) UFVJM",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFSJ",
+    "nome": "Universidade Federal de São João Del Rei (UFSJ) - São João Del Rei - MG",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIFAL",
+    "nome": "Universidade Federal de Alfenas - Alfenas (MG) - UNIFAL",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFMA-Imperatriz",
+    "nome": "Universidade Federal do Maranhão- UFMA-Imperatriz (MA)",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFMA/Pinheiro",
+    "nome": "Universidade Federal do Maranhão - UFMA-Pinheiro (MA)",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFMT-",
+    "nome": "Rondonópolis\tUniversidade Federal do Mato Grosso-UFMT- Rondonópolis (MT)",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFMT-Sinop)",
+    "nome": "Universidade Federal do Mato Grosso- UFMT-Sinop (MT)",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFRB",
+    "nome": "Universidade Federal do Recôncavo da Bahia - Santo Antônio de Jesus -(BA) - UFRB",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFPE",
+    "nome": "(Caruaru)\tUniversidade Federal de Pernambuco (UFPE) - Caruaru (PE)",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "USCS",
+    "nome": "Universidade Municipal de São Caetano do Sul-SP - USCS",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "USCS-SP",
+    "nome": "Universidade de São Caetano do Sul - USCS - S.Paulo",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIME",
+    "nome": "Unime Lauro de Freitas",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "INTA-UNINTA",
+    "nome": "Centro Universitário INTA-UNINTA - Sobral/CE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNI-FACEF",
+    "nome": "Centro Universitário Municipal de Franca - FRANCA - SP - Uni-FACEF",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FPP",
+    "nome": "Faculdades Pequeno Principe - FPP - Curitiba/PR",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "CESMAC",
+    "nome": "Centro Universitário Cesmac - Maceió - CESMAC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "ESTÁCIO",
+    "nome": "-JOÀO UCHOA.\tUniversidade Estácio de Sá - Campus João Uchoa - RJ - UNESA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFACIG",
+    "nome": "Centro Universitário de Manhuaçu/MG - UNIFACIG",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNICAP",
+    "nome": "Universidade Católica de Pernambuco - UNICAP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFAE",
+    "nome": "Centro Universitário das Faculdade Associadas de Ensino - FAE - S.João da Boa Vista/SP- UNIFAE",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UniRV",
+    "nome": "Universidade de Rio Verde - Aparecida de Goiania - GO UniRV",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFG-Jataí",
+    "nome": "Universidade Federal de Goiás - Jataí/Go",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFVJM",
+    "nome": "-Teófilo Otoni\tUniversidade Federal dos Vales doo Jequitinhonha e Mucuri - Teófilo Otoni/MG - UFVJM",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFMS-",
+    "nome": "Três lagoas\tUniversidade Federal do Mato Grosso do Sul - UFMS-Três Lagoas/MS",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFVSF",
+    "nome": "Fundação Universidade Federal do Vale do São Francisco - Paulo Afonso/BA",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFP",
+    "nome": "- Parnaíba\tUniversidade Federal do Piauí - UFP/Parnaiba",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFRN",
+    "nome": "- Caicó\tUniversidade Federal do Rio Grande do Norte - UFRN-Caicó/RN",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFSBA",
+    "nome": "- Teixeira de Freitas\tUniversidade Federal do Sul da Bahia - Teixeira de Freitas/BA - UFSBA",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFOB",
+    "nome": "- Barreiras\tUniversidade Federal do Oeste da Bahia -Barreiras/BA - UFOB/Barreiras",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNILA",
+    "nome": "_ Foz do Iguaçu\tUniversidade Federal da Integração Latino-Americana,- Foz do Iguaçu /PR - UNILA",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIFAGOC",
+    "nome": "Centro Universitário UNIFAGOC - UNIFAGOC - UBÁ/MG",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFIP",
+    "nome": "Centro Universitário de Patos - UNIFIP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNI-FAMINAS",
+    "nome": "Muriaé\tUni-Faminas Minas - FAMINAS/Muriaé - MG",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNISEB",
+    "nome": "Centro Universitário Estácio de Ribeirão Preto",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIPÊ",
+    "nome": "Centro Universitário de João Pessoa - PB - UNIPE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FAM",
+    "nome": "Faculdade das Américas - São Paulo/SP - FAM",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFN",
+    "nome": "Universidade Franciscana - Santa Maria/RS - UFN",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIT",
+    "nome": "- AL\tCentro Universitário Tiradentes - Maceió/AL - UNIT",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFLA",
+    "nome": "Universidade Federal de Lavras - MG - UFLA",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FASA",
+    "nome": "Faculdade de Saúde Santo Agostinho de Vitoria da Conquista - BA - FASA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UEMS",
+    "nome": "Universidade Estadual de Mato Grosso do Sul - UEMS",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIFAI",
+    "nome": "Centro Universitário de Adamantina/SP - FAI",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFPR/TOLEDO",
+    "nome": "Universidade Federal do Paraná - campus de TOLEDO - UFPR/TOLEDO",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FADIP",
+    "nome": "Faculdade Dinâmica do Vale do Piranga- Ponte Nova/MG - FADIP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFAN",
+    "nome": "Faculdade Alfredo Nasser - Aparecida de Goiania - GO - UNIFAN",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFFS",
+    "nome": "- Chapecó\tUniversidade Federal da Fronteira Sul - Chapecó - SC UFFS",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFT/Araguaína",
+    "nome": "Universidade Federal de Tocantins - Araguaina/TO - UFT",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFAL-Arapiraca",
+    "nome": "Universidade Federal de Alagoas - Arapiraca/AL- UFAL",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FAMP",
+    "nome": "Centro de Ensino Superior Morgana Potrich Eireli - FAMP (SUB JUDICE)",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIREDENTOR",
+    "nome": "Centro Universitário Redentor - Itaperuna/RJ - UNIREDENTOR",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIPTAN",
+    "nome": "Centro Universitário Presidente Tancredo de Almeida Neves - S.João del Rei /MG - UNIPTAN",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FICSAE",
+    "nome": "Faculdade Israelita de Ciências da Saúde Albert Einsten - São Paulo/SP - FICSAE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UniRV/Goianésia",
+    "nome": "Universidade de Rio Verde - UniRV/GO - Goianésia",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UEMG/PASSOS",
+    "nome": "Universidade do Estado de Minas Gerais- UEMG/PASSOS",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FEMA",
+    "nome": "Fundação Educacional do Município de Assis - SP - FEMA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FMO",
+    "nome": "Faculdade de Medicina de Olinda/PE - FMO",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UniFG",
+    "nome": "Centro Universitário UniFG- Guanambi - BA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "CAT",
+    "nome": "Universidade Federal da Bahia - campus Anísio Teixeira - CAT",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UFERSA",
+    "nome": "- Mossoró\tUniversidade Federal Rural do Semi-Árido - campus de Mossoró - UFERSA/RN",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIPAMPA",
+    "nome": "- URUGUAIANA\tUniversidade Federal do Pampa - Uruguaiana - RS - UNIPAMPA",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FAHESP/iESVAP",
+    "nome": "Faculdade de Ciências Humanas, Exatas e da Saúde do Piauí - FAHESP/iESVAP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "USCS-SP",
+    "nome": "Universidade Municipal de São Caetano do Sul - Campus Bela Vista - USCS-SP",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIFIMES",
+    "nome": "Centro Universitário de Mineiros - UNIFIMES (GO)",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIVALE",
+    "nome": "MG\tUniversidade Vale do Rio Doce - MG - UNIVALE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFJF.br/GV",
+    "nome": "Universidade Federal de Juiz de Fora - Governador Valadares/MG Autorizado UFJF",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIFADRA",
+    "nome": "Faculdade Unifadra Dracena - UNIFADRA-SP",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "Unidavi",
+    "nome": "Centro Univ.p/ o Desenvolvimento do Alto Vale do Itajaí - SC - UNIDAVI",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFAM",
+    "nome": "- Coari\tUniversidade Federal do Amazonas - campus Coari -AM",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FACERES",
+    "nome": "Faculdade de Medicina FACERES - São José do Rio Preto - SP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "EDUFOR",
+    "nome": "Faculdade de Ciências e Saúde Edufor - EDUFOR",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UnC",
+    "nome": "Universidade do Contestado - Mafra-SC - UcN",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNICEUMA",
+    "nome": "- Imperatriz\tUniversidade Ceuma - Imperatriz/MA - UNICEUMA./IMPERATRIZ",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FMMSCBJI",
+    "nome": "Faculdade Metropolitana São Carlos BJI - B.J.Itabapoana-RJ - FAMESC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "Humanitas",
+    "nome": "Faculdade de Ciências Médicas de São José dos Campos - SP - HUMANITAS",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "USP-Baurú",
+    "nome": "Universidade de São Paulo - USP - Baurú",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "ITPAC/PALMAS",
+    "nome": "Instituto Presidente Antonio Carlos - Palmas/TO - ITPAC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "CUCM",
+    "nome": "Centro Universitário Integrado de Campo Mourão - PR",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNINOVE",
+    "nome": "- Guarulhos\tUniversidade Nove de Julho-SP - Guarulhos - UNINOVE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNINOVE",
+    "nome": "- Mauá\tUniversidade Nove de Julho- Mauá. SP - UNINOVE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FSLM",
+    "nome": "Faculdade São Leopoldo Mandic - ARARAS - SP - FMANDIC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FEEVALE",
+    "nome": "Universidade Feevale - Novo Hamburgo. RS - FEEVALE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNINOVE",
+    "nome": "Universidade Nove de Julho- Osasco.SP - UNINOVE - OSASCO",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIDEP",
+    "nome": "Universidade de Pato Branco - Pato Branco. PR - UNIDEP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "CEUCLAR",
+    "nome": "Centro Universitário Claretianorc - Rio Claro.SP - CEUCLAR",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNINOVE",
+    "nome": "- S.Bernardo do Campo\tUniversidade Nove de Julho - São Bernardo do Campo . SP - UNINOVE / S.Bernardo",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNISINOS",
+    "nome": "Universidade do Vale do Rio dos Sinos - São Leopoldo. RS - UNISINOS",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNESA",
+    "nome": "- Angra dos Reis\tUniversidade Estácio de Sá - Angra dos Reis. RJ - UNESA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UAM-Piracicaba",
+    "nome": "Universidade Anhembi-Morumbi - UAM - PIRACICABA.SP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UAM-",
+    "nome": "São José dos Campos\tUniversidade Anhembi-Morumbi - UAM - São José dos Campos - SP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFG",
+    "nome": "- Catalão\tUniversidade Federal de Goias - Campus de Catalão - UFG-UC",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FAM",
+    "nome": "Faculdade AGES de Medicina -- JACOBINA/BA - FAM",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNISALESIANO",
+    "nome": "Centro Universitário Católico Salesiano Aux- UNISALESIANO - Camp Araçatuba.SP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "URI",
+    "nome": "ERECHIM\tUniversidade Regional Integrada do Alto Uruguai e das Missões - ERECHIM/RS- URI ERECHIM",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "CAMPOREAL",
+    "nome": "Centro Universitário Campo Real - Guarapuava PR- CAMPO REAL",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "PUC-Poços",
+    "nome": "de Caldas\tPontifícia Universidade Católica de Minas Gerais- PUC Poços de Caldas - MG",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIPAR",
+    "nome": "Universidade Paranaense - Umuarama - UNIPAR - PR",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FAMETRO",
+    "nome": "Centro Universitário CEUNI-FAMETRO - FAMETRO - Manaus-AM",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIARP",
+    "nome": "Universidade Alto Vale do Rio do Peixe - SC - UNIARP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "Atenas",
+    "nome": "Sete Lagoas\tFaculdade Sete Lagoas - MG - Atenas Sete Lagoas",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FITS",
+    "nome": "Faculdade Integrada Tiradentes - Jaboatão dos Guararapes",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNICERRADO",
+    "nome": "Centro Universitário de Goiatuba - GO",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "ATENAS-PASSOS",
+    "nome": "Faculdade Atenas-Passos - MG",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "Estácio",
+    "nome": "de Jaraguá do Sul\tFaculdade Estácio de Jaraguá do Sul - Jaraguá do Sul -SC - ESTÁCIO/JARAGUÁ",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "Estácio-Juazeiro",
+    "nome": "Faculdade Estácio de Juazeiro",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "Estácio-Alagoinhas",
+    "nome": "Faculdade Estácio de Alagoinhas",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNOESTE/JAÚ",
+    "nome": "Universidade do Oeste Paulista - JAÚ - SÃO PAULO",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFSC-",
+    "nome": "ARAGUANGUÁ\tUniversidade Federal de Santa Catarina - Campus ARARANGUÁ",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "PUC-CONTAGEM-MG",
+    "nome": "Pontifícia Universidade Católica de Minas Gerais- PUC - CONTAGEM- MG",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "Pitágoras/Eunápolis",
+    "nome": "Faculdade de Medicina Pitágoras de Eunápolis",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNESC/Rondônia",
+    "nome": "Faculdade de Educação e Cultura de Vilhena - VILHENA/RO",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FASA-Itabuna",
+    "nome": "Faculdade de Medicina Santo Agostinho de Itabuna - FASA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNICENTRO",
+    "nome": "Universidade Estadual do Centro Oeste - Guarapuava/PR - UNICENTRO",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UEG/Itumbiara",
+    "nome": "Universidade Estadual de Goiás/campus Itumbiara",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FUNEPE",
+    "nome": "Faculdade de Medicina de Penápolis - FUNEPE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FCM",
+    "nome": "/TR\tSuprema Faculdade de Ciências Médicas de Três Rios-RJ",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFIMES-Trindade-GO",
+    "nome": "Centro Universitário de Mineiros - UNIFIMES-Trindade -GO",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FIP",
+    "nome": "Guanambi\tFaculdades Integradas Padrão - FIP Guanambi",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFUNEC",
+    "nome": "Centro Universitário de Santa Fé do Sul - SP - UNIFUNEC",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FESAR",
+    "nome": "Faculdade de Ensino Superior da Amazônia Reunida- FESAR",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFEBE",
+    "nome": "Universidade de Brusque - SC - UNIFEBE",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "USJT",
+    "nome": "Universidade São Judas Tadeu - USJT",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UniMax",
+    "nome": "Centro Universitário de Indaiatuba - UniMAX - Grupo UniEduK",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FACENE/RN",
+    "nome": "Faculdade Nova Esperança de Mossoro - RN - FACENE/RN",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UFPR",
+    "nome": "- Toledo\tFaculdade de Medicina de Toledo - PR",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UCB",
+    "nome": "Universidade Católica de Brasília",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIJUI",
+    "nome": "Universidade Regional do Noroeste do Estado do Rio Grande do Sul - UNIJUÍ",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "MULTIVIX",
+    "nome": "Faculdade Multivix Cachoeiro de Itapemirim",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIRV-",
+    "nome": "FORMOSA\tUniversidade de Rio Verde -Formosa- Unirv",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "SCES-UNINEURO",
+    "nome": "Centro Universitário-Instituto Euro Americano de Educação Ciência Tecnologia SCES",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNDB",
+    "nome": "Centro Universitário Unidade de Ensino Superior Dom Bosco",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FATRA",
+    "nome": "Faculdade de Medicina - FATRA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "Medicina-Guarujá",
+    "nome": "Faculdade de Medicina - Unoeste- Campus/Guarujá/SP",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FACIMPA",
+    "nome": "Faculdade de Ciências Médicas do Pará - FACIMPA",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FMPFM",
+    "nome": "Faculdade Municipal de Medicina Prof. Franco Montoro - Mogi Guaçu",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "UNIVERTIIX",
+    "nome": "Faculdade Vértice - Matipó",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "Faculdade",
+    "nome": "AGES\tFaculdade AGES de Medicina de Irecê",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIFAJ",
+    "nome": "Centro Universitário de Jaguariúna - UniFAJ - Grupo UniEduK",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FMS",
+    "nome": "Faculdade de Medicina do Sertão",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "ITPAC",
+    "nome": "ITPAC Cruzeiro do Sul",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FAP",
+    "nome": "Faculdade Paraíso Araripina",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "UNIRG",
+    "nome": "Universidade de Gurupi - Campus Paraíso - UNIRG",
+    "tipo": "Pública"
+  },
+  {
+    "sigla": "FITS",
+    "nome": "Faculdade Tiradentes de Goiana - FITS",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "Pitágoras/Maranhão",
+    "nome": "Faculdade Pitágoras - Codó - Maranhão",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "AFYA",
+    "nome": "ABAETETUBA\tAfya Faculdade de Ciências Médicas de Abaetetuba",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "AFYA",
+    "nome": "ITACOATIARA\tAfya Faculdade de Ciências Médicas de Itacoatiara",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "AFYA",
+    "nome": "MANACAPURU\tAfya Faculdade de Ciências Médicas de Manacapuru",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "AFYA",
+    "nome": "Bragança\tAFYA Faculdade de Ciências Médicas de Bragança",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "SLM",
+    "nome": "Limeira\tFaculdade São Leopoldo Mandic de Limeira",
+    "tipo": "Privada"
+  },
+  {
+    "sigla": "FSL",
+    "nome": "Faculdade de Ciências da Saúde Sírio-Libanês",
+    "tipo": "Pública"
+  }
+]
